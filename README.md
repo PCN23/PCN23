@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**PCN23/PCN23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Highly motivated individual with strong skills needed to solve human-centered problems. Creative problem solving, quality of work, and user experience are things I look for in everyday problems. I use my experiences to enhance my current work. I possess a genuine desire for growth and learning new skills and technologies.
+💻⚽️
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech stack:
+ languages: [ 'JavaScript', 'HTML', 'CSS']
+ 
+ code_editors: [ 'VSCode', 'X-Code' ]
+ 
+ frameworks_and_libraries: [ 'React', 'Node', 'Express', 'JSON' ]
+ 
+ databases: [ 'SQL/Postgres' ]
+ 
+ testing_suites: [ 'Jest' ]
+ 
+ tools: [ 'GitHub', 'Postman', 'Git', 'Beekeeper Studio', 'Netlify', 'Heroku' ]
+ 
+ learning: [ 'Swift', 'Python' ]
+ 
+ 
+
