@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there i'm Pedro. 
+
+
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/KJmbSTSyIzetubNgJ5/giphy.gif" width="100"/>
+</div>
 
 Highly motivated individual with strong skills needed to solve human-centered problems. Creative problem solving, quality of work, and user experience are things I look for in everyday problems. I use my experiences to enhance my current work. I possess a genuine desire for growth and learning new skills and technologies.
 💻⚽️
