@@ -1,4 +1,4 @@
-### Hi there i'm Pedro. 
+### Hi there I'm Pedro. 
 
 
 <div id="badges">
